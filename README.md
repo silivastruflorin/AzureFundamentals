@@ -12,3 +12,6 @@ for deployment:
 - Web app service (to be created)
 - Function App (to be created)
 
+Links:
+ - https://towardsdatascience.com/building-and-deploying-c-azure-functions-using-multi-stage-pipelines-in-azure-devops-993239e4d41c
+ - https://www.mercuryworks.com/blog/creating-a-multi-stage-pipeline-in-azure-devops/
