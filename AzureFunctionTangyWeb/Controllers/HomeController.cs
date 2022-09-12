@@ -34,7 +34,7 @@ namespace AzureFunctionTangyWeb.Controllers
             using(var content = new StringContent(JsonConvert.SerializeObject(salesRequest), System.Text.Encoding.UTF8, "application/json"))
             {
                 // call our function and pass the content
-               var result = await _httpClient.PostAsync("http://localhost:7071/api/OnSaleUploadWriteToQueue", content);
+               var result = await _httpClient.PostAsync("https://azurefunctionappflorin.azurewebsites.net/api/OnSaleUploadWriteToQueue?code=pcLDKmRADI7ECvXROOusSmDhnUwBKf7A1f3G5aY4KvMKAzFubYIYxw==", content);
                var returnValue = result.Content.ReadAsStringAsync().Result;
 ;               
             }

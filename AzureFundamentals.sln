@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobProject", "AzureBlobProject\AzureBlobProject.csproj", "{AB422858-FCEE-4AC8-9B65-8A59D80CA1D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureBlobProject", "AzureBlobProject\AzureBlobProject.csproj", "{AB422858-FCEE-4AC8-9B65-8A59D80CA1D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctionTangyWeb", "AzureFunctionTangyWeb\AzureFunctionTangyWeb.csproj", "{FB343842-2277-4779-B9A7-B10A35A324B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctionTangyWeb", "AzureFunctionTangyWeb\AzureFunctionTangyWeb.csproj", "{FB343842-2277-4779-B9A7-B10A35A324B7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AzureBlobExample", "AzureBlobExample", "{136CC841-E8E8-48B9-8491-B5DA824A99C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTangyFunc", "AzureTangyFunc\AzureTangyFunc.csproj", "{7EBB3A02-F069-4563-8005-1AC22FB21969}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureTangyFunc", "AzureTangyFunc\AzureTangyFunc.csproj", "{7EBB3A02-F069-4563-8005-1AC22FB21969}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AzureFunctions", "AzureFunctions", "{DA736466-38C8-4AB6-A118-EA7F7D2C8B5F}"
 EndProject
