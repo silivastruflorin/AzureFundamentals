@@ -363,3 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 /AzureBlobProject/appsettings.json
 /AzureFunctionTangyWeb/appsettings.json
+/AzureBlobProject/appsettings.json
+/.gitignore
